@@ -1,4 +1,7 @@
 ### Smoke config
+*Copy the following commands to a txt document and name it _smoke.cfg_, then add the .cfg file to ~/Steam/steamapps/common/Counter-Strike Global offensive/csgo/cfg.*
+Execute the config ig in console using exec smoke.
+
 
 sv_cheats 1  
 sv_infinite_ammo 1  
